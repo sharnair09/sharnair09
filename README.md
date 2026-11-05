@@ -1,23 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharanya Nair</h1>
 <h3 align="center">A Website Developer</h3>
 
-- 🔭 I’m currently working on [ABC](www.youtube.com)
 
-- 🌱 I’m currently learning **how to swim**
-
-- 👯 I’m looking to collaborate on [DEF](www.instagram.com)
-
-- 🤝 I’m looking for help with [GHI](www.twitter.com)
-
-- 👨‍💻 All of my projects are available at [youtube](youtube)
-
-- 📝 I regularly write articles on [Voice media](Voice media)
-
-- 💬 Ask me about **Dogs**
-
-- 📫 How to reach me **whatsapp**
-
-- 📄 Know about my experiences [NONE!!](NONE!!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
